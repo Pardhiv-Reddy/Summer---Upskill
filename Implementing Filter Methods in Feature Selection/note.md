@@ -12,7 +12,7 @@
 - `chi2`
 - `mutual_info_classif`
 
-## REAL-WORLD INSIGHTS
+## REAL-WORLD CONCEPT
 - `mutual_info_classif` can capture nonlinear relationships in messy real-world data
 - `chi2` works only with non-negative encoded categorical features
 - Feature selection methods compare features against the target variable
